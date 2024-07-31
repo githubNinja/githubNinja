@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @githubNinja
-- 👀 I’m interested in programming in java, scala , python, node js and other AWS cloud technologies ...
+- Seasoned professionsl with 20 years of experiene, currently serving as a Solution Architect.
+- 👀 I’m interested in programming in java, scala , python, node js and other AWS cloud technologies
+- 💞️ My expertise spans across programming in Java, Scala, Python, Node.js, and various AWS cloud technologies ...
 - Learning ML and solving data problems using various ML Algorithms.
-- Currently a Solution Architect involving in DDD, System design and thinking.
-- 🌱 Previously a Staff Engineer with 18+ years experience in software engineering.
-- 💞️ I’m looking to collaborate on docker, Kubernetes.
+- My experience also includes a strong background in Domain-Driven Design (DDD), system design, and strategic thinking.
+- 🌱 Previously a Staff Engineer experience in software engineering.
 - 📫 You can reach me at githubkran@gmail.com
 
 <!---
