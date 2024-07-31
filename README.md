@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @githubNinja
-- Seasoned professionsl with 20 years of experiene, currently serving as a Solution Architect.
+- Seasoned professionsl with 20 years of experience, currently serving as a Solution Architect.
 - 👀 I’m interested in programming in java, scala , python, node js and other AWS cloud technologies
 - 💞️ My expertise spans across programming in Java, Scala, Python, Node.js, and various AWS cloud technologies ...
 - Learning ML and solving data problems using various ML Algorithms.
